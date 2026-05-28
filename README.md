@@ -1,68 +1,101 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/189000000" width="200" style="border-radius: 50%; border: 6px solid #00ff9d; box-shadow: 0 0 40px #00ff9d;">
-  
-  <h1>🧥 <b>Duck Cipher</b></h1>
-  <h3><code>bugdev-ce</code> — Bug Bounty Hunter & Security Researcher</h3>
 
-  <p><strong>Decifrando sistemas. Uma vulnerabilidade por vez.</strong> <br>
-  <span style="color:#00ff9d">🐤 🔓</span></p>
+```
+██████╗ ██╗   ██╗ ██████╗██╗  ██╗     ██████╗██╗██████╗ ██╗  ██╗███████╗██████╗
+██╔══██╗██║   ██║██╔════╝██║ ██╔╝    ██╔════╝██║██╔══██╗██║  ██║██╔════╝██╔══██╗
+██║  ██║██║   ██║██║     █████╔╝     ██║     ██║██████╔╝███████║█████╗  ██████╔╝
+██║  ██║██║   ██║██║     ██╔═██╗     ██║     ██║██╔═══╝ ██╔══██║██╔══╝  ██╔══██╗
+██████╔╝╚██████╔╝╚██████╗██║  ██╗    ╚██████╗██║██║     ██║  ██║███████╗██║  ██║
+╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝     ╚═════╝╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-  <img src="https://img.shields.io/badge/From-Fortaleza,%20CE-00ff9d?style=for-the-badge&logo=flag&logoColor=black&color=111111" />
-  <img src="https://img.shields.io/badge/Bug%20Bounty-Active-ff2d55?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Decrypting%20the%20Matrix-00ff9d?style=for-the-badge" />
+<img src="https://avatars.githubusercontent.com/u/189000000" width="120" style="border-radius:50%;" />
+
+###  Bug Bounty Hunter & Security Researcher
+
+**Decifrando sistemas. Uma vulnerabilidade por vez.**
+
+[![From](https://img.shields.io/badge/From-Fortaleza,%20CE-00ff9d?style=flat-square&logoColor=black&labelColor=111111)](https://github.com/bugdev-ce)
+[![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Active-ff2d55?style=flat-square&labelColor=111111)](https://bugcrowd.com/h/regyfelipe)
+[![Status](https://img.shields.io/badge/Status-Decrypting%20the%20Matrix-00ff9d?style=flat-square&labelColor=111111)](#)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--2655--3730-a6ce39?style=flat-square&logo=orcid&labelColor=111111)](https://orcid.org/0009-0002-2655-3730)
+
 </div>
 
 ---
 
-### 🌐 Sobre mim
+## `$ whoami`
 
-Olá, eu sou o **Duck Cipher** (bugdev-ce).  
+Olá, sou o **Duck Cipher**  — Bug Bounty Hunter e Security Researcher operando a partir de Fortaleza, CE.
 
-Atuo como Bug Bounty Hunter e Security Researcher. Minha missão é encontrar falhas de segurança antes que os maus atores consigam. Especializado em web, API, cloud e prompts para IA aplicada à segurança.
+Minha missão é encontrar falhas de segurança **antes** que atores maliciosos o façam. Especializado em:
 
-Quando não estou caçando bugs, estou criando ferramentas, estudando criptografia e compartilhando conhecimento.
+- 🌐 **Web & API** — lógica de negócio, autenticação, injeções
+- ☁️ **Cloud** — misconfigurations, IAM, exposed services
+- 🤖 **AI Security** — prompt injection, jailbreaks, model abuse
+- 🔐 **Criptografia aplicada** — análise e implementação segura
 
-- **ORCID**: [0009-0002-2655-3730](https://orcid.org/0009-0002-2655-3730)
-- **Bugcrowd**: [bugcrowd.com/h/regyfelipe](https://bugcrowd.com/h/regyfelipe)
+Quando não estou caçando bugs, estou construindo ferramentas, estudando criptografia e compartilhando conhecimento com a comunidade.
 
----
-
-### 🛠️ Arsenal (Tech Stack)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-*(adicione aqui as tecnologias que você mais usa)*
+> **Plataformas:** [Bugcrowd](https://bugcrowd.com/h/regyfelipe) · [ORCID](https://orcid.org/0009-0002-2655-3730)
 
 ---
 
-### 🔥 Projetos em Destaque
+## `$ cat arsenal.txt`
 
-- **[public-prompt-source](https://github.com/bugdev-ce/public-prompt-source)** — Fonte pública de prompts avançados
-- **[anthropic-bugbounty](https://github.com/bugdev-ce/anthropic-bugbounty)** — Exploração de bugs na Anthropic
+**Linguagens & Scripting**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### 📊 Mission Stats
+**Ferramentas ofensivas**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bugdev-ce&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bugdev-ce&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-> **“The quieter you become, the more you are able to hear.”**  
-> — Duck Cipher Protocol
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-**Vamos caçar juntos?**  
-Entre em contato ou me siga para acompanhar as próximas descobertas.
+## `$ ls projetos/`
+
+| Repositório | Descrição |
+|-------------|-----------|
+| [📁 public-prompt-source](https://github.com/bugdev-ce/public-prompt-source) | Fonte pública de prompts avançados para segurança e IA |
+| [📁 anthropic-bugbounty](https://github.com/bugdev-ce/anthropic-bugbounty) | Exploração de bugs na Anthropic — pesquisa responsável |
+
+---
+
+## `$ stats --verbose`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bugdev-ce&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c8d6e5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugdev-ce&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c8d6e5)
+
+</div>
+
+---
+
+## `$ echo $QUOTE`
+
+```
+"The quieter you become,
+ the more you are able to hear."
+
+  — Duck Cipher Protocol
+```
 
 ---
 
 <div align="center">
-  <i>Made with 🔥 and zero mercy for vulnerabilities</i>
+
+**Vamos caçar juntos?**
+Entre em contato ou me siga para acompanhar as próximas descobertas.
+
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-bugdev--ce-FF6633?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/regyfelipe)
+
+<sub>Made with 🔥 and zero mercy for vulnerabilities</sub>
+
 </div>
